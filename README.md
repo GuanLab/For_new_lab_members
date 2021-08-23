@@ -1,4 +1,4 @@
-# Startup guide to Guanlab
+# Beginner's guide to Guanlab
 Startup settings for new lab members
 ## Access your remote server for the first time
 1. Use ssh to connect to remote server from your laptop terminal
