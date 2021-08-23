@@ -32,21 +32,21 @@ After login, you’re in the home directory of remote server:
 
 Select any disk you’d like to create your own local disk. Before that, you may check the availability of space for each of them. 
   
-  ![figure](/images/image5.png)
+  ![figure](/images/image4.png)
 
 4. Create your own directory under one of them. Here I select `disk4` for example. Name your own disk by your unique name.
   
-  ![figure](/images/image4.png)
+  ![figure](/images/image5.png)
 
 5. And here it is!
   
-  ![figure](/images/image5.png)
+  ![figure](/images/image6.png)
 
 6. Also you can create a softlink in your home directory for easier access to your disk:
 
-  ![figure](/images/image6.png)
+  ![figure](/images/image7.png)
 
 7. And you can access your disk directly in your home directory:
 
-  ![figure](/images/image7.png)
+  ![figure](/images/image8.png)
 
