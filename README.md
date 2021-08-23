@@ -25,7 +25,7 @@ After login, you’re in the home directory of remote server:
   ![figure](/images/image2.png)
 
 * Install all your prerequisites here, such as [anaconda](https://docs.anaconda.com/anaconda/install/index.html).
-* [^1]:Don’t put your projects under the home directory because the space is limited.
+* **Don’t put your projects under the home directory because the space is limited.**
 3. Create local disks to store your project:
   
   ![figure](/images/image3.png)
