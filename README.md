@@ -20,6 +20,7 @@ ssh youruniquename@zeeb.dcmb.med.umich.edu
 The password is the same one as your wolverine account. 
 
 2. Initial setup on the server:
+
 After login, you’re in the home directory of remote server:
   
   ![figure](/images/image2.png)
