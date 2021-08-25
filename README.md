@@ -1,6 +1,6 @@
 # Beginner's guide to Guanlab
 Startup settings for new lab members
-## Access your remote server for the first time
+## Access the lab remote server for the first time
 1. Before you begin, connect your personal computer to umich VPN. Instructions for installation can be found here: https://its.umich.edu/enterprise/wifi-networks/vpn/getting-started
 2. Use ssh to connect to remote server from your laptop terminal
   
