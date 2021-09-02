@@ -1,5 +1,33 @@
 # Beginner's guide to Guanlab
 Startup settings for new lab members
+
+## Servers
+Host zeeb
+Hostname zeeb.dcmb.med.umich.edu
+
+Host liberty
+Hostname liberty.dcmb.med.umich.edu
+
+Host bartonshore
+Hostname 10.224.85.11
+
+Host whitmore
+Hostname 10.224.85.12
+
+
+For zeeb and liberty, Each has 24GX8 GPU, 512 GB memory (128 cores), and 8 local disks
+For bartonshore and whitmore, each has 12X4 GPU, 256 memory, and 4 local disks. 
+
+Typically, a student is given access to zeeb/bartonshore pair, or liberty/whitmore pair. 
+
+### The /home partition is extremely small, please only install programs here, definitely no data/computation here/
+The /local/disk[1-8] are for your current projects, each is 4TB.
+The /nfs/disk[1-12] are backup storages, connected to all servers. Each disk is 12TB.
+
+### Please note there is absolutely no back up in all disks. Thus, please backup to backup storages. 
+
+
+
 ## Access the lab remote server for the first time
 1. Before you begin, connect your personal computer to umich VPN. Instructions for installation can be found here: https://its.umich.edu/enterprise/wifi-networks/vpn/getting-started
 2. Use ssh to connect to remote server from your laptop terminal
