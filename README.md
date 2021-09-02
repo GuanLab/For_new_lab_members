@@ -80,3 +80,18 @@ Select any disk you’d like to create your own local disk. Before that, you may
 
   ![figure](/images/image8.png)
 
+
+## Self study materials
+
+### VI
+https://www.openvim.com/
+
+### Machine learning study materials
+https://github.com/GuanLab/Traditional-Machine-learning-self-study-syllabus
+
+### Guan Lab winning algorithm code
+https://www.synapse.org/#!Synapse:syn6180942/wiki/401735
+
+### C++ tutorial
+https://www.w3schools.com/cpp/default.asp
+
